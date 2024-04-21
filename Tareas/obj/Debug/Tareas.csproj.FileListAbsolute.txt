@@ -1,0 +1,10 @@
+C:\Users\Tony\source\repos\Tareas\Tareas\bin\Debug\Tareas.exe.config
+C:\Users\Tony\source\repos\Tareas\Tareas\bin\Debug\Tareas.exe
+C:\Users\Tony\source\repos\Tareas\Tareas\bin\Debug\Tareas.pdb
+C:\Users\Tony\source\repos\Tareas\Tareas\obj\Debug\Tareas.csproj.AssemblyReference.cache
+C:\Users\Tony\source\repos\Tareas\Tareas\obj\Debug\Tareas.Form1.resources
+C:\Users\Tony\source\repos\Tareas\Tareas\obj\Debug\Tareas.Properties.Resources.resources
+C:\Users\Tony\source\repos\Tareas\Tareas\obj\Debug\Tareas.csproj.GenerateResource.cache
+C:\Users\Tony\source\repos\Tareas\Tareas\obj\Debug\Tareas.csproj.CoreCompileInputs.cache
+C:\Users\Tony\source\repos\Tareas\Tareas\obj\Debug\Tareas.exe
+C:\Users\Tony\source\repos\Tareas\Tareas\obj\Debug\Tareas.pdb
